@@ -3,7 +3,7 @@
 ## AIM:
 Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the type of model to fit to the data.
 
-## ALGORITHM:
+## ALGORITHM: 
 
 1. Import the necessary packages
 
